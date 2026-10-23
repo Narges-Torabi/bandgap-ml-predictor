@@ -33,3 +33,14 @@ Analyzing the decision pathways highlights the primary physical descriptors gove
 ├── feature_importance.png    # Feature importance distribution
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+Clone this repository and install dependencies:
+```bash
+git clone [https://github.com/Narges-Torabi/bandgap-ml-predictor.git](https://github.com/Narges-Torabi/bandgap-ml-predictor.git)
+cd bandgap-ml-predictor
+pip install -r requirements.txt
