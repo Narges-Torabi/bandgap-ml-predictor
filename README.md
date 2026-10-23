@@ -42,8 +42,10 @@ Analyzing the decision pathways highlights the primary physical descriptors gove
 Clone this repository and install dependencies:
 ```bash
 git clone [https://github.com/Narges-Torabi/bandgap-ml-predictor.git](https://github.com/Narges-Torabi/bandgap-ml-predictor.git)
-cd bandgap-ml-predictor
 pip install -r requirements.txt
 
+---
+
+##Running the Model
 Execute the main pipeline:
 python train.py
