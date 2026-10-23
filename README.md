@@ -44,3 +44,6 @@ Clone this repository and install dependencies:
 git clone [https://github.com/Narges-Torabi/bandgap-ml-predictor.git](https://github.com/Narges-Torabi/bandgap-ml-predictor.git)
 cd bandgap-ml-predictor
 pip install -r requirements.txt
+
+Execute the main pipeline:
+python train.py
